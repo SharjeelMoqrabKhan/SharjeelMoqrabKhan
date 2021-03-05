@@ -1,7 +1,7 @@
 ### Hi there it's **Sharjeel Moqrab Khan** a fullstack web and mobile developer and a life time student👋
 
-- 🔭 I’m currently working on DigitalBanoo.pk
-- 🌱 I’m currently learning React,ReactNative 
+- 🔭 I’m currently working as Freelancer 
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking forward collaborate on opensource projects 
 - 💬 Ask me about React,ReactNative,Flutter ...
 - 📫 How to reach me: [Sharjeel Riaz](https://www.facebook.com/sharjeel.riaz1),[Sherry Brogrammer](https://www.youtube.com/channel/UC4nwPYSMO4QIPyyF1Wft11g)
