@@ -39,8 +39,8 @@
     <a href="https://www.trendmicro.com/" target="_blank"><img src="https://www.trendmicro.com/content/dam/trendmicro/global/en/core/images/logos/tm-logo-red-white-t.svg"/></a>
     <a href="https://www.cloudflare.com/waf/" target="_blank"><img src="https://img.icons8.com/color/48/cloudflare.png"/></a>
     <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.icons8.com/color/48/nessus.png"/></a>
-    <a href="https://owasp.org/" target="_blank"><img src="https://img.icons8.com/color/48/owasp.png"/></a>
-    <a href="https://www.mitre.org/" target="_blank"><img src="https://img.icons8.com/color/48/mitre.png"/></a>
+    <a href="https://owasp.org/" target="_blank"><img src="https://owasp.org/assets/images/logo.png"/></a>
+    <a href="https://www.mitre.org/" target="_blank"><img src="https://attack.mitre.org/theme/images/mitre_attack_logo.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png"/></a> 
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
 </p>
