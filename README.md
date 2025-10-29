@@ -33,14 +33,13 @@
 
 <p align="left"> 
     <a href="https://www.ibm.com/qradar/" target="_blank"><img src="https://img.icons8.com/color/48/ibm.png"/> </a>
-    <a href="https://wazuh.com/" target="_blank"><img src="https://img.icons8.com/color/48/shield.png"/></a>
-    <a href="https://www.elastic.co/siem" target="_blank"><img src="https://img.icons8.com/color/48/elastic.png"/></a>
+    <a href="https://wazuh.com/" target="_blank"><img src="https://wazuh.com/uploads/2022/05/WAZUH.png"/></a>
     <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.icons8.com/color/48/azure-1.png"/></a>
     <a href="https://www.trendmicro.com/" target="_blank"><img src="https://www.trendmicro.com/content/dam/trendmicro/global/en/core/images/logos/tm-logo-red-white-t.svg"/></a>
     <a href="https://www.cloudflare.com/waf/" target="_blank"><img src="https://img.icons8.com/color/48/cloudflare.png"/></a>
     <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.icons8.com/color/48/nessus.png"/></a>
     <a href="https://owasp.org/" target="_blank"><img src="https://owasp.org/assets/images/logo.png"/></a>
-    <a href="https://www.mitre.org/" target="_blank"><img src="https://attack.mitre.org/theme/images/mitre_attack_logo.png"/></a>
+    <a href="https://www.mitre.org/" target="_blank"><img src="https://attack.mitre.org/theme/images/MITRE_ATTACK_logo_Lockup-white-transparent-new.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png"/></a> 
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
 </p>
