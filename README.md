@@ -3,75 +3,121 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sharjeel Moqrab Khan</h1>
-<h3 align="center">I'm a passionate Flutter/JavaScript Developer  from Pakistan.</h3>
+<h3 align="center">Cybersecurity Professional | SOC Analyst | Detection Engineer | Threat Hunter</h3>
 
+---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter](https://flutter.dev/)**
+- 🛡️ **Security Operations Analyst** with 4+ years of experience in SOC monitoring, incident response, and threat detection.  
+- ⚙️ Skilled in **SIEM (QRadar, Sentinel, Wazuh, ELK)**, **EDR**, **IDS/IPS**, **firewall analysis**, and **threat hunting**.  
+- 🎯 Experienced in **Detection Engineering** aligned with **MITRE ATT&CK** and **Cyber Kill Chain** frameworks.  
+- 🧠 Conducting **vulnerability management**, **secure code review**, and **playbook-based incident response**.  
+- 🌍 Strong exposure to **ISO 27001**, **PCI DSS**, and **GDPR** controls with proven ability to reduce false positives and improve detection accuracy.  
+- ✍️ Passionate about **research, DFIR, and developing detection logic** to enhance blue team capabilities.  
 
-- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/SharjeelMoqrabKhan/DSA)**
+---
 
-- 👯 I’m looking to collaborate on **OpenSource Projects** and **Startups**
+## 🧩 Areas of Expertise
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sharjeelmoqrabkhan.github.io/me/)**
+- **SOC Operations & Threat Monitoring**  
+- **Incident Response & Forensics**  
+- **Detection Engineering (MITRE ATT&CK Mapping)**  
+- **Threat Hunting & IOC Analysis**  
+- **Vulnerability Assessment & Pentesting (Web/Mobile/API)**  
+- **Secure Code Review (OWASP ASVS, Top 10)**  
+- **SIEM Rule Tuning & Log Integration**  
+- **WAF, IPS, Firewall & Policy Management**  
+- **Trend Micro Suite (Apex One, TMES, TMWS, DLP)**  
+- **Governance, Compliance & Audit Support (ISO 27001, PCI DSS)**  
 
-- 📫 How to reach me **sharjeelmoqrabkhan@gmail.com**
+---
 
-- ⚡ Fun fact ** While Coding i talk to myself too much! **
-
-## 🚀 Languages and Tools:
+## 🚀 Tools, Frameworks & Platforms
 
 <p align="left"> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/dart.png"/> </a> 
-     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.ibm.com/qradar/" target="_blank"><img src="https://img.icons8.com/color/48/ibm.png"/> </a>
+    <a href="https://wazuh.com/" target="_blank"><img src="https://img.icons8.com/color/48/shield.png"/></a>
+    <a href="https://www.elastic.co/siem" target="_blank"><img src="https://img.icons8.com/color/48/elastic.png"/></a>
+    <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.icons8.com/color/48/azure-1.png"/></a>
+    <a href="https://www.trendmicro.com/" target="_blank"><img src="https://img.icons8.com/color/48/trend-micro.png"/></a>
+    <a href="https://www.cloudflare.com/waf/" target="_blank"><img src="https://img.icons8.com/color/48/cloudflare.png"/></a>
+    <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.icons8.com/color/48/nessus.png"/></a>
+    <a href="https://owasp.org/" target="_blank"><img src="https://img.icons8.com/color/48/owasp.png"/></a>
+    <a href="https://www.mitre.org/" target="_blank"><img src="https://img.icons8.com/color/48/mitre.png"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png"/></a> 
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
+
+## 📈 Professional Highlights
+
+- 🔍 Reduced **false positives by 30%** through SIEM rule tuning and detection optimization.  
+- 🚨 Achieved **sub-4-hour SLA** for phishing and malware incident containment.  
+- 🧩 Designed **custom detection logic** mapped to **MITRE ATT&CK**, improving threat visibility.  
+- 🧰 Automated vulnerability correlation between SIEM and Nuclei scanners for real-time alerts.  
+- 🏆 Strengthened **mobile app security** through Guardsquare SDK assessments (DexGuard, iXGuard).  
+- 📊 Produced weekly SOC reports consolidating WAF, endpoint, and SIEM detections for management review.  
+
+---
+
+## 📜 Certifications
+
+- 🎓 **(ISC)² Certified in Cybersecurity (CC)**  
+- ☁️ **Microsoft Certified: Azure Fundamentals**  
+- 🔐 **Practical Web Application Security and Testing – TCM Security**  
+- 🧱 **IBM QRadar SIEM Foundation | IBM Guardium Foundations**  
+- 🧠 **Ethical Hacking Essentials – EC-Council**  
+- 💻 **Google IT Support Certificate**  
+
+---
+
+## 🧠 Learning & Research Focus
+
+- 🔎 Advanced Threat Hunting Techniques  
+- 🧬 Detection Engineering Automation & SOAR Integration  
+- ☁️ Cloud Security Controls (Azure / AWS)  
+- 🧰 Modern Web Application Security (OWASP ASVS v5)  
+- 🧾 DFIR Process Improvement and Playbook Design  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/Sharjeelmoqrabkhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SharjeelMoqrabKhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharjeelmoqrabkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <a href="https://github.com/Sharjeelmoqrabkhan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharjeelmoqrabkhan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeelmoqrabkhan&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
+
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Sharjeelmoqrabkhan&theme=black-ice&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharjeelmoqrabkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/Sharjeelmoqrabkhan/github-readme-stats"><img alt="Sharjeelmoqrabkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sharjeelmoqrabkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sharjeelmoqrabkhan/github-readme-stats"><img alt="Sharjeelmoqrabkhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeelmoqrabkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🌐 Connect with Me
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/Sharjeelmoqrabkhan/github-readme-activity-graph"><img alt="Sharjeelmoqrabkhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sharjeelmoqrabkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sharjeel-moqrab-khan-787614195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sharjeel_mk"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sharjeel_mk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC4nwPYSMO4QIPyyF1Wft11g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/sharjeel-moqrab-787614195/"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a>
+<a href="mailto:sharjeelkh1995@gmail.com"><img src="https://img.icons8.com/fluent/48/gmail-new.png"/></a>
+<a href="https://twitter.com/sharjeel_mk"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a>
+<a href="https://www.youtube.com/channel/UC4nwPYSMO4QIPyyF1Wft11g"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
 </p>
 
-## ❤ Views and Followers
+---
+
+## ❤ Profile Views & Followers
+
+<p align="center">
 <a href="https://github.com/Sharjeelmoqrabkhan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sharjeelmoqrabkhan">
+    <img src="https://komarev.com/ghpvc/?username=Sharjeelmoqrabkhan&color=blueviolet">
 </a>
-<a href="https://github.com/Sharjeelmoqrabkhan?tab=followers"><img src="https://img.shields.io/github/followers/Sharjeelmoqrabkhan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sharjeelmoqrabkhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sharjeelmoqrabkhan?label=Followers&style=social">
+</a>
+</p>
