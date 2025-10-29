@@ -37,9 +37,8 @@
     <a href="https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel" target="_blank"><img src="https://img.icons8.com/color/48/azure-1.png" width="48" height="48" alt="Microsoft Sentinel"/></a>
     <a href="https://www.trendmicro.com/" target="_blank"><img src="https://www.trendmicro.com/content/dam/trendmicro/global/en/core/images/logos/tm-logo-red-white-t.svg" width="48" height="48" alt="Trend Micro"/></a>
     <a href="https://www.cloudflare.com/waf/" target="_blank"><img src="https://img.icons8.com/color/48/cloudflare.png" width="48" height="48" alt="Cloudflare WAF"/></a>
-    <a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://images.seeklogo.com/logo-png/35/1/nessus-professional-logo-png_seeklogo-353317.png" width="48" height="48" alt="Nessus"/></a>
-    <a href="https://owasp.org/" target="_blank"><img src="https://owasp.org/assets/images/logo.png" width="48" height="48" alt="OWASP"/></a>
-    <a href="https://attack.mitre.org/" target="_blank"><img src="https://attack.mitre.org/theme/images/MITRE_ATTACK_logo_Lockup-white-transparent-new.png" width="48" height="48" alt="MITRE ATT&CK"/></a>
+    <a href="https://owasp.org/" target="_blank"><img src="https://owasp.org/assets/images/logo.png" width="60" height="60" alt="OWASP"/></a>
+    <a href="https://attack.mitre.org/" target="_blank"><img src="https://attack.mitre.org/theme/images/MITRE_ATTACK_logo_Lockup-white-transparent-new.png" width="60" height="60" alt="MITRE ATT&CK"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python.png" width="48" height="48" alt="Python"/></a> 
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" width="48" height="48" alt="Git"/></a>
 </p>
